@@ -67,7 +67,7 @@
             "last_commit": "2026-08-05T01:23:46Z",
             "owner": "apache",
             "repo": "cloudstack-cloudmonkey",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T02:23:27Z",
+            "last_commit": "2026-08-15T19:26:18Z",
             "owner": "ngine-io",
             "repo": "cs",
             "stars": 88
@@ -145,7 +145,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-21T06:32:43Z",
+            "last_commit": "2026-08-16T06:32:36Z",
             "owner": "shapeblue",
             "repo": "cloudstack-csi-driver",
             "stars": 1
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T02:23:27Z",
+            "last_commit": "2026-08-15T19:26:18Z",
             "owner": "ngine-io",
             "repo": "cs",
             "stars": 88
@@ -465,7 +465,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T16:07:47Z",
+            "last_commit": "2026-08-16T17:05:05Z",
             "owner": "apache",
             "repo": "cloudstack",
             "stars": 3022
@@ -479,7 +479,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T16:07:47Z",
+            "last_commit": "2026-08-16T17:05:05Z",
             "owner": "apache",
             "repo": "cloudstack",
             "stars": 3022
@@ -630,7 +630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T18:52:29.678Z",
+    "last_updated": "2026-08-16T18:51:17.776Z",
     "original_repository": "ngine-io/awesome-cloudstack",
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",
     "enhanced_repository": "enhansome/enhansome-cloudstack",
