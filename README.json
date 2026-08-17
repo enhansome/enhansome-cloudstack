@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T05:46:36Z",
+            "last_commit": "2026-08-17T17:11:55Z",
             "owner": "apache",
             "repo": "cloudstack-go",
             "stars": 38
@@ -316,7 +316,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T06:33:16Z",
+            "last_commit": "2026-08-17T06:31:58Z",
             "owner": "cloudbase",
             "repo": "garm",
             "stars": 373
@@ -426,7 +426,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T13:42:46Z",
+            "last_commit": "2026-08-17T13:42:43Z",
             "owner": "ngine-io",
             "repo": "chaotic",
             "stars": 74
@@ -440,7 +440,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T14:52:38Z",
+            "last_commit": "2026-08-17T14:52:47Z",
             "owner": "ngine-io",
             "repo": "scalr",
             "stars": 50
@@ -465,7 +465,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T17:05:05Z",
+            "last_commit": "2026-08-17T11:42:34Z",
             "owner": "apache",
             "repo": "cloudstack",
             "stars": 3022
@@ -479,7 +479,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T17:05:05Z",
+            "last_commit": "2026-08-17T11:42:34Z",
             "owner": "apache",
             "repo": "cloudstack",
             "stars": 3022
@@ -547,7 +547,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T18:06:48Z",
+            "last_commit": "2026-08-17T18:02:51Z",
             "owner": "apache",
             "repo": "cloudstack-terraform-provider",
             "stars": 53
@@ -630,7 +630,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:51:17.776Z",
+    "last_updated": "2026-08-17T19:04:55.542Z",
     "original_repository": "ngine-io/awesome-cloudstack",
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",
     "enhanced_repository": "enhansome/enhansome-cloudstack",
