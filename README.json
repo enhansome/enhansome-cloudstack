@@ -1,60 +1,65 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Instance Templates Packer by PCextreme",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 24654595,
+                "language": "Shell",
+                "last_commit": "2022-08-24T07:10:06Z",
+                "owner": "PCextreme",
+                "repo": "packer-templates",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SystemVM Packer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55311624,
+                "language": "Shell",
+                "last_commit": "2021-01-29T11:00:34Z",
+                "owner": "MissionCriticalCloud",
+                "repo": "systemvm-packer",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Instance Templates Packer by Schuberg Philis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82566550,
+                "language": "Shell",
+                "last_commit": "2026-02-08T09:56:59Z",
+                "owner": "MissionCriticalCloud",
+                "repo": "bubble-templates-packer",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Templates"
+        }
+      ],
       "title": "Packages and Templates"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Instance Templates Packer by PCextreme",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2022-08-24T07:10:06Z",
-            "owner": "PCextreme",
-            "repo": "packer-templates",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SystemVM Packer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-01-29T11:00:34Z",
-            "owner": "MissionCriticalCloud",
-            "repo": "systemvm-packer",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Instance Templates Packer by Schuberg Philis",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-02-08T09:56:59Z",
-            "owner": "MissionCriticalCloud",
-            "repo": "bubble-templates-packer",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Templates"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -63,6 +68,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13641478,
             "language": "Go",
             "last_commit": "2026-08-05T01:23:46Z",
             "owner": "apache",
@@ -77,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21390959,
             "language": "Python",
             "last_commit": "2026-08-15T19:26:18Z",
             "owner": "ngine-io",
@@ -91,6 +98,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 378986140,
             "language": "Go",
             "last_commit": "2026-08-17T17:11:55Z",
             "owner": "apache",
@@ -105,6 +113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15165792,
             "language": "Ruby",
             "last_commit": "2026-04-16T21:55:32Z",
             "owner": "niwo",
@@ -116,46 +125,50 @@
       "title": "Command Line Interface Clients"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CloudStack Kubernetes Provider",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196358567,
+                "language": "Go",
+                "last_commit": "2026-07-13T08:05:00Z",
+                "owner": "apache",
+                "repo": "cloudstack-kubernetes-provider",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudStack CSI Driver",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 835232646,
+                "language": "Go",
+                "last_commit": "2026-08-16T06:32:36Z",
+                "owner": "shapeblue",
+                "repo": "cloudstack-csi-driver",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kubernetes"
+        }
+      ],
       "title": "Configuration Management Integrations"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CloudStack Kubernetes Provider",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-13T08:05:00Z",
-            "owner": "apache",
-            "repo": "cloudstack-kubernetes-provider",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CloudStack CSI Driver",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T06:32:36Z",
-            "owner": "shapeblue",
-            "repo": "cloudstack-csi-driver",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Kubernetes"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -164,6 +177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21390959,
             "language": "Python",
             "last_commit": "2026-08-15T19:26:18Z",
             "owner": "ngine-io",
@@ -178,6 +192,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 23781019,
             "language": "Go",
             "last_commit": "2021-07-26T12:00:28Z",
             "owner": "xanzy",
@@ -192,6 +207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65435044,
             "language": "Java",
             "last_commit": "2019-03-13T19:08:15Z",
             "owner": "Autonomiccs",
@@ -206,6 +222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15166059,
             "language": "Ruby",
             "last_commit": "2026-04-16T20:57:05Z",
             "owner": "niwo",
@@ -220,6 +237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22576819,
             "language": "Go",
             "last_commit": "2017-03-25T15:31:05Z",
             "owner": "atsaki",
@@ -234,6 +252,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 65943685,
             "language": "PHP",
             "last_commit": "2018-11-05T13:27:13Z",
             "owner": "PCextreme",
@@ -248,6 +267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43895939,
             "language": "C#",
             "last_commit": "2022-06-22T22:28:16Z",
             "owner": "richardlawley",
@@ -262,6 +282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17986381,
             "language": "PHP",
             "last_commit": "2020-01-17T15:41:31Z",
             "owner": "myENA",
@@ -276,6 +297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31975087,
             "language": "Shell",
             "last_commit": "2016-03-19T10:20:35Z",
             "owner": "NuxRo",
@@ -290,6 +312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66387319,
             "language": "JavaScript",
             "last_commit": "2017-04-14T01:03:33Z",
             "owner": "Autonomiccs",
@@ -301,337 +324,356 @@
       "title": "Libraries"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488973970,
+                "language": "Go",
+                "last_commit": "2026-08-18T06:33:06Z",
+                "owner": "cloudbase",
+                "repo": "garm",
+                "stars": 374
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "collectd-cloudstack Plugin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 6464965,
+                "language": "Python",
+                "last_commit": "2018-08-27T02:13:35Z",
+                "owner": "exoscale",
+                "repo": "collectd-cloudstack",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudStack Nagios Monitoring by SWISS TXT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16737689,
+                "language": "Ruby",
+                "last_commit": "2021-09-02T08:31:42Z",
+                "owner": "swisstxt",
+                "repo": "cloudstack-nagios",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "csbench - CloudStack Benchmarking Tool",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716009848,
+                "language": "Go",
+                "last_commit": "2026-05-15T19:24:09Z",
+                "owner": "apache",
+                "repo": "cloudstack-csbench",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CloudStack Statistics into InfluxDB",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90413082,
+                "language": "Ruby",
+                "last_commit": "2021-07-08T15:52:48Z",
+                "owner": "niwo",
+                "repo": "cloudstats",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Montitoring and Graphs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nip.io - realhostip compatible service",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169697414,
+                "language": "Python",
+                "last_commit": "2026-06-19T23:10:11Z",
+                "owner": "exentriquesolutions",
+                "repo": "nip.io",
+                "stars": 1770
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "powerdns-cloudstack-proxy-dns",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17679571,
+                "language": "Lua",
+                "last_commit": "2014-06-26T08:11:49Z",
+                "owner": "eriweb",
+                "repo": "powerdns-cloudstack-proxy-dns",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "RealHostIP replacement"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Chaotic - Chaos for Clouds",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233554418,
+                "language": "Python",
+                "last_commit": "2026-08-17T13:42:43Z",
+                "owner": "ngine-io",
+                "repo": "chaotic",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scalr - Autoscaling for Clouds",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274773607,
+                "language": "Python",
+                "last_commit": "2026-08-17T14:52:47Z",
+                "owner": "ngine-io",
+                "repo": "scalr",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
+        }
+      ],
       "title": "Operational Extensions"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9759448,
+                "language": "Java",
+                "last_commit": "2026-08-19T10:47:44Z",
+                "owner": "apache",
+                "repo": "cloudstack",
+                "stars": 3026
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache CloudStack Issue Tracker - GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9759448,
+                "language": "Java",
+                "last_commit": "2026-08-19T10:47:44Z",
+                "owner": "apache",
+                "repo": "cloudstack",
+                "stars": 3026
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hackerbook",
+              "description": "Guide to CloudStack Development",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153054540,
+                "language": null,
+                "last_commit": "2026-01-25T16:01:06Z",
+                "owner": "shapeblue",
+                "repo": "hackerbook",
+                "stars": 73
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T06:33:06Z",
-            "owner": "cloudbase",
-            "repo": "garm",
-            "stars": 374
-          }
+          "node_type": "group",
+          "title": "Main"
         },
         {
-          "node_type": "item",
-          "title": "collectd-cloudstack Plugin",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CloudStack Simulator Container",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130925259,
+                "language": "Dockerfile",
+                "last_commit": "2025-09-11T01:06:06Z",
+                "owner": "ansible",
+                "repo": "cloudstack-test-container",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mbx",
+              "description": "build dev and QA environments on KVM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1196573262,
+                "language": "Shell",
+                "last_commit": "2026-03-30T20:49:10Z",
+                "owner": "shapeblue",
+                "repo": "mbx",
+                "stars": 1
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2018-08-27T02:13:35Z",
-            "owner": "exoscale",
-            "repo": "collectd-cloudstack",
-            "stars": 8
-          }
+          "node_type": "group",
+          "title": "Development Environment"
         },
         {
-          "node_type": "item",
-          "title": "CloudStack Nagios Monitoring by SWISS TXT",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub CI CloudStack Service Workflow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 360431125,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:16:45Z",
+                "owner": "apache",
+                "repo": "cloudstack-terraform-provider",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trillian",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50923823,
+                "language": "Jinja",
+                "last_commit": "2026-08-04T10:42:36Z",
+                "owner": "shapeblue",
+                "repo": "Trillian",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bubble-blueprint",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52974520,
+                "language": "Python",
+                "last_commit": "2025-07-03T13:21:31Z",
+                "owner": "MissionCriticalCloud",
+                "repo": "bubble-blueprint",
+                "stars": 5
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2021-09-02T08:31:42Z",
-            "owner": "swisstxt",
-            "repo": "cloudstack-nagios",
-            "stars": 6
-          }
+          "node_type": "group",
+          "title": "Continuous Integrations"
         },
         {
-          "node_type": "item",
-          "title": "csbench - CloudStack Benchmarking Tool",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DEB Builder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123756631,
+                "language": "Shell",
+                "last_commit": "2021-11-05T17:17:13Z",
+                "owner": "khos2ow",
+                "repo": "cloudstack-deb-builder",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RPM Builder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123756618,
+                "language": "Shell",
+                "last_commit": "2021-11-23T16:57:51Z",
+                "owner": "khos2ow",
+                "repo": "cloudstack-rpm-builder",
+                "stars": 1
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-15T19:24:09Z",
-            "owner": "apache",
-            "repo": "cloudstack-csbench",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CloudStack Statistics into InfluxDB",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2021-07-08T15:52:48Z",
-            "owner": "niwo",
-            "repo": "cloudstats",
-            "stars": 2
-          }
+          "node_type": "group",
+          "title": "Build with Docker"
         }
       ],
-      "title": "Montitoring and Graphs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nip.io - realhostip compatible service",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-19T23:10:11Z",
-            "owner": "exentriquesolutions",
-            "repo": "nip.io",
-            "stars": 1770
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "powerdns-cloudstack-proxy-dns",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2014-06-26T08:11:49Z",
-            "owner": "eriweb",
-            "repo": "powerdns-cloudstack-proxy-dns",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "RealHostIP replacement"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Chaotic - Chaos for Clouds",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T13:42:43Z",
-            "owner": "ngine-io",
-            "repo": "chaotic",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scalr - Autoscaling for Clouds",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T14:52:47Z",
-            "owner": "ngine-io",
-            "repo": "scalr",
-            "stars": 50
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T16:55:32Z",
-            "owner": "apache",
-            "repo": "cloudstack",
-            "stars": 3023
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Apache CloudStack Issue Tracker - GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T16:55:32Z",
-            "owner": "apache",
-            "repo": "cloudstack",
-            "stars": 3023
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hackerbook",
-          "description": "Guide to CloudStack Development",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-01-25T16:01:06Z",
-            "owner": "shapeblue",
-            "repo": "hackerbook",
-            "stars": 73
-          }
-        }
-      ],
-      "title": "Main"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CloudStack Simulator Container",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2025-09-11T01:06:06Z",
-            "owner": "ansible",
-            "repo": "cloudstack-test-container",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mbx",
-          "description": "build dev and QA environments on KVM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-30T20:49:10Z",
-            "owner": "shapeblue",
-            "repo": "mbx",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Development Environment"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GitHub CI CloudStack Service Workflow",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T15:08:23Z",
-            "owner": "apache",
-            "repo": "cloudstack-terraform-provider",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trillian",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jinja",
-            "last_commit": "2026-08-04T10:42:36Z",
-            "owner": "shapeblue",
-            "repo": "Trillian",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bubble-blueprint",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-03T13:21:31Z",
-            "owner": "MissionCriticalCloud",
-            "repo": "bubble-blueprint",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Continuous Integrations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DEB Builder",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-11-05T17:17:13Z",
-            "owner": "khos2ow",
-            "repo": "cloudstack-deb-builder",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RPM Builder",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-11-23T16:57:51Z",
-            "owner": "khos2ow",
-            "repo": "cloudstack-rpm-builder",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Build with Docker"
-    },
-    {
-      "description": "Found an awesome project, blog, video etc.? Send me a pull request!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Awesome CloudStack is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:03:21.741Z",
+    "last_updated": "2026-08-19T12:26:10.057Z",
     "original_repository": "ngine-io/awesome-cloudstack",
+    "original_repository_id": 90178645,
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",
     "enhanced_repository": "enhansome/enhansome-cloudstack",
     "enhanced_repository_description": null,
