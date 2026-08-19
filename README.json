@@ -70,7 +70,7 @@
             "archived": false,
             "id": 13641478,
             "language": "Go",
-            "last_commit": "2026-08-05T01:23:46Z",
+            "last_commit": "2026-08-19T13:03:36Z",
             "owner": "apache",
             "repo": "cloudstack-cloudmonkey",
             "stars": 117
@@ -502,7 +502,7 @@
                 "last_commit": "2026-08-19T10:47:44Z",
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3026
+                "stars": 3027
               }
             },
             {
@@ -517,7 +517,7 @@
                 "last_commit": "2026-08-19T10:47:44Z",
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3026
+                "stars": 3027
               }
             },
             {
@@ -603,7 +603,7 @@
                 "archived": false,
                 "id": 50923823,
                 "language": "Jinja",
-                "last_commit": "2026-08-04T10:42:36Z",
+                "last_commit": "2026-08-19T13:37:14Z",
                 "owner": "shapeblue",
                 "repo": "Trillian",
                 "stars": 14
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:26:10.057Z",
+    "last_updated": "2026-08-19T18:58:26.976Z",
     "original_repository": "ngine-io/awesome-cloudstack",
     "original_repository_id": 90178645,
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",
