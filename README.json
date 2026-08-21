@@ -70,10 +70,10 @@
             "archived": false,
             "id": 13641478,
             "language": "Go",
-            "last_commit": "2026-08-19T13:03:36Z",
+            "last_commit": "2026-08-21T14:12:18Z",
             "owner": "apache",
             "repo": "cloudstack-cloudmonkey",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -337,10 +337,10 @@
                 "archived": false,
                 "id": 488973970,
                 "language": "Go",
-                "last_commit": "2026-08-20T08:44:28Z",
+                "last_commit": "2026-08-21T06:33:20Z",
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 377
+                "stars": 380
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2026-06-19T23:10:11Z",
                 "owner": "exentriquesolutions",
                 "repo": "nip.io",
-                "stars": 1772
+                "stars": 1771
               }
             },
             {
@@ -499,10 +499,10 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-20T15:45:57Z",
+                "last_commit": "2026-08-21T15:29:23Z",
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3026
+                "stars": 3029
               }
             },
             {
@@ -514,10 +514,10 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-20T15:45:57Z",
+                "last_commit": "2026-08-21T15:29:23Z",
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3026
+                "stars": 3029
               }
             },
             {
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:07:13.286Z",
+    "last_updated": "2026-08-21T19:03:10.232Z",
     "original_repository": "ngine-io/awesome-cloudstack",
     "original_repository_id": 90178645,
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",
