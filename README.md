@@ -100,7 +100,7 @@
 
 ### RealHostIP replacement
 
-* [nip.io - realhostip compatible service](https://github.com/exentriquesolutions/nip.io) ⭐ 1,771 | 🐛 16 | 🌐 Python | 📅 2026-06-19
+* [nip.io - realhostip compatible service](https://github.com/exentriquesolutions/nip.io) ⭐ 1,772 | 🐛 16 | 🌐 Python | 📅 2026-06-19
 * [powerdns-cloudstack-proxy-dns](https://github.com/terbolous/powerdns-cloudstack-proxy-dns) ⭐ 2 | 🐛 1 | 🌐 Lua | 📅 2014-06-26
 
 ### Billing Solutions
@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,029 | 🐛 962 | 🌐 Java | 📅 2026-08-21
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,029 | 🐛 962 | 🌐 Java | 📅 2026-08-21
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,029 | 🐛 966 | 🌐 Java | 📅 2026-08-22
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,029 | 🐛 966 | 🌐 Java | 📅 2026-08-22
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

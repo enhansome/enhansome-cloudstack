@@ -422,7 +422,7 @@
                 "last_commit": "2026-06-19T23:10:11Z",
                 "owner": "exentriquesolutions",
                 "repo": "nip.io",
-                "stars": 1771
+                "stars": 1772
               }
             },
             {
@@ -499,7 +499,7 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-21T15:29:23Z",
+                "last_commit": "2026-08-22T18:34:23Z",
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3029
@@ -514,7 +514,7 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-21T15:29:23Z",
+                "last_commit": "2026-08-22T18:34:23Z",
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3029
@@ -671,7 +671,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:03:10.232Z",
+    "last_updated": "2026-08-22T18:53:27.106Z",
     "original_repository": "ngine-io/awesome-cloudstack",
     "original_repository_id": 90178645,
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",
