@@ -62,7 +62,7 @@
 ### Kubernetes
 
 * [CloudStack Kubernetes Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 50 | 🐛 18 | 🌐 Go | 📅 2026-08-20
-* [CloudStack CSI Driver](https://github.com/shapeblue/cloudstack-csi-driver) ⭐ 1 | 🐛 14 | 🌐 Go | 📅 2026-08-16
+* [CloudStack CSI Driver](https://github.com/shapeblue/cloudstack-csi-driver) ⭐ 1 | 🐛 14 | 🌐 Go | 📅 2026-08-23
 * [CAPC - Cluster API Provider for CloudStack](https://cluster-api-cloudstack.sigs.k8s.io/introduction)
 
 ### Terraform
@@ -92,7 +92,7 @@
 
 ### Montitoring and Graphs
 
-* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 380 | 🐛 25 | 🌐 Go | 📅 2026-08-21
+* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 381 | 🐛 25 | 🌐 Go | 📅 2026-08-21
 * [collectd-cloudstack Plugin](https://github.com/exoscale/collectd-cloudstack) ⚠️ Archived
 * [CloudStack Nagios Monitoring by SWISS TXT](https://github.com/swisstxt/cloudstack-nagios) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2021-09-02
 * [csbench - CloudStack Benchmarking Tool](https://github.com/apache/cloudstack-csbench) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2026-05-15
@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,029 | 🐛 966 | 🌐 Java | 📅 2026-08-22
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,029 | 🐛 966 | 🌐 Java | 📅 2026-08-22
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,029 | 🐛 970 | 🌐 Java | 📅 2026-08-23
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,029 | 🐛 970 | 🌐 Java | 📅 2026-08-23
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
