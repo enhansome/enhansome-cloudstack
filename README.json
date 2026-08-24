@@ -131,6 +131,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Ansible Cloud Infra Role (Advanced Networking)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78436562,
+                "language": "Jinja",
+                "last_commit": "2025-11-28T14:20:56Z",
+                "owner": "swisstxt",
+                "repo": "ansible-role-cloud-infra",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ansible"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "CloudStack Kubernetes Provider",
               "description": null,
               "children": [],
@@ -163,6 +185,50 @@
           "description": null,
           "node_type": "group",
           "title": "Kubernetes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CloudStack Provider",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196358567,
+                "language": "Go",
+                "last_commit": "2026-08-20T09:26:22Z",
+                "owner": "apache",
+                "repo": "cloudstack-kubernetes-provider",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terraform"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vagrant Cloudstack Provider",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9837466,
+                "language": "Ruby",
+                "last_commit": "2022-10-06T04:54:40Z",
+                "owner": "MissionCriticalCloud",
+                "repo": "vagrant-cloudstack",
+                "stars": 68
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vagrant"
         }
       ],
       "title": "Configuration Management Integrations"
@@ -337,10 +403,10 @@
                 "archived": false,
                 "id": 488973970,
                 "language": "Go",
-                "last_commit": "2026-08-21T06:33:20Z",
+                "last_commit": "2026-08-24T06:34:30Z",
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 381
+                "stars": 384
               }
             },
             {
@@ -499,7 +565,7 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-23T11:29:52Z",
+                "last_commit": "2026-08-24T14:20:34Z",
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3029
@@ -514,7 +580,7 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-23T11:29:52Z",
+                "last_commit": "2026-08-24T14:20:34Z",
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3029
@@ -671,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:52:58.403Z",
+    "last_updated": "2026-08-24T14:48:58.135Z",
     "original_repository": "ngine-io/awesome-cloudstack",
     "original_repository_id": 90178645,
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",

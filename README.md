@@ -56,8 +56,8 @@
 
 ### Ansible
 
-* [Ansible CloudStack Integration](https://docs.ansible.com/ansible/latest/collections/ngine_io/cloudstack/index.html)
 * [Ansible Cloud Infra Role (Advanced Networking)](https://github.com/swisstxt/ansible-role-cloud-infra) ⭐ 6 | 🐛 4 | 🌐 Jinja | 📅 2025-11-28
+* [Ansible CloudStack Integration](https://docs.ansible.com/ansible/latest/collections/ngine_io/cloudstack/index.html)
 
 ### Kubernetes
 
@@ -92,7 +92,7 @@
 
 ### Montitoring and Graphs
 
-* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 381 | 🐛 25 | 🌐 Go | 📅 2026-08-21
+* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 384 | 🐛 26 | 🌐 Go | 📅 2026-08-24
 * [collectd-cloudstack Plugin](https://github.com/exoscale/collectd-cloudstack) ⚠️ Archived
 * [CloudStack Nagios Monitoring by SWISS TXT](https://github.com/swisstxt/cloudstack-nagios) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2021-09-02
 * [csbench - CloudStack Benchmarking Tool](https://github.com/apache/cloudstack-csbench) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2026-05-15
@@ -100,7 +100,7 @@
 
 ### RealHostIP replacement
 
-* [nip.io - realhostip compatible service](https://github.com/exentriquesolutions/nip.io) ⭐ 1,772 | 🐛 16 | 🌐 Python | 📅 2026-06-19
+* [nip.io - realhostip compatible service](https://github.com/exentriquesolutions/nip.io) ⭐ 1,772 | 🐛 17 | 🌐 Python | 📅 2026-06-19
 * [powerdns-cloudstack-proxy-dns](https://github.com/terbolous/powerdns-cloudstack-proxy-dns) ⭐ 2 | 🐛 1 | 🌐 Lua | 📅 2014-06-26
 
 ### Billing Solutions
@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,029 | 🐛 970 | 🌐 Java | 📅 2026-08-23
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,029 | 🐛 970 | 🌐 Java | 📅 2026-08-23
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,029 | 🐛 971 | 🌐 Java | 📅 2026-08-24
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,029 | 🐛 971 | 🌐 Java | 📅 2026-08-24
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
