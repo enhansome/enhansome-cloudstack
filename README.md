@@ -48,7 +48,7 @@
 ## Command Line Interface Clients
 
 * [cmk - Apache CloudMonkey (Official Go-based CLI)](https://github.com/apache/cloudstack-cloudmonkey) ⭐ 118 | 🐛 19 | 🌐 Go | 📅 2026-08-21
-* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2026-08-15
+* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2026-08-24
 * [CloudStack Go-SDK (Official SDK)](https://github.com/apache/cloudstack-go) ⭐ 38 | 🐛 17 | 🌐 Go | 📅 2026-08-17
 * [cloudstack-cli (Ruby)](https://github.com/niwo/cloudstack-cli) ⭐ 17 | 🐛 0 | 🌐 Ruby | 📅 2026-04-16
 
@@ -75,7 +75,7 @@
 
 ## Libraries
 
-* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2026-08-15
+* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2026-08-24
 * [go-cloudstack (Go)](https://github.com/xanzy/go-cloudstack) ⚠️ Archived
 * [apache-cloudstack-java-client (Java)](https://github.com/Autonomiccs/apache-cloudstack-java-client) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2019-03-13
 * [cloudstack\_client (Ruby)](https://github.com/niwo/cloudstack_client) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2026-04-16
@@ -100,7 +100,7 @@
 
 ### RealHostIP replacement
 
-* [nip.io - realhostip compatible service](https://github.com/exentriquesolutions/nip.io) ⭐ 1,772 | 🐛 17 | 🌐 Python | 📅 2026-06-19
+* [nip.io - realhostip compatible service](https://github.com/exentriquesolutions/nip.io) ⭐ 1,772 | 🐛 16 | 🌐 Python | 📅 2026-06-19
 * [powerdns-cloudstack-proxy-dns](https://github.com/terbolous/powerdns-cloudstack-proxy-dns) ⭐ 2 | 🐛 1 | 🌐 Lua | 📅 2014-06-26
 
 ### Billing Solutions
@@ -112,7 +112,7 @@
 ### Misc
 
 * [Chaotic - Chaos for Clouds](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 9 | 🌐 Python | 📅 2026-08-17
-* [Scalr - Autoscaling for Clouds](https://github.com/ngine-io/scalr) ⭐ 50 | 🐛 9 | 🌐 Python | 📅 2026-08-17
+* [Scalr - Autoscaling for Clouds](https://github.com/ngine-io/scalr) ⭐ 50 | 🐛 8 | 🌐 Python | 📅 2026-08-24
 * [Alternative CloudStack-UI by Bitworks Software, Ltd.](https://bwsw.github.io/cloudstack-ui/)
 
 ## Public Cloud Providers

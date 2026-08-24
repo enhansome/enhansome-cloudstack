@@ -85,7 +85,7 @@
             "archived": false,
             "id": 21390959,
             "language": "Python",
-            "last_commit": "2026-08-15T19:26:18Z",
+            "last_commit": "2026-08-24T17:36:45Z",
             "owner": "ngine-io",
             "repo": "cs",
             "stars": 88
@@ -245,7 +245,7 @@
             "archived": false,
             "id": 21390959,
             "language": "Python",
-            "last_commit": "2026-08-15T19:26:18Z",
+            "last_commit": "2026-08-24T17:36:45Z",
             "owner": "ngine-io",
             "repo": "cs",
             "stars": 88
@@ -537,7 +537,7 @@
                 "archived": false,
                 "id": 274773607,
                 "language": "Python",
-                "last_commit": "2026-08-17T14:52:47Z",
+                "last_commit": "2026-08-24T18:37:35Z",
                 "owner": "ngine-io",
                 "repo": "scalr",
                 "stars": 50
@@ -565,7 +565,7 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:20:34Z",
+                "last_commit": "2026-08-24T18:26:30Z",
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3029
@@ -580,7 +580,7 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-24T14:20:34Z",
+                "last_commit": "2026-08-24T18:26:30Z",
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3029
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:58.135Z",
+    "last_updated": "2026-08-24T19:07:02.681Z",
     "original_repository": "ngine-io/awesome-cloudstack",
     "original_repository_id": 90178645,
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",
