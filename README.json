@@ -290,7 +290,7 @@
             "archived": false,
             "id": 15166059,
             "language": "Ruby",
-            "last_commit": "2026-04-16T20:57:05Z",
+            "last_commit": "2026-08-25T14:33:29Z",
             "owner": "niwo",
             "repo": "cloudstack_client",
             "stars": 14
@@ -488,7 +488,7 @@
                 "last_commit": "2026-06-19T23:10:11Z",
                 "owner": "exentriquesolutions",
                 "repo": "nip.io",
-                "stars": 1772
+                "stars": 1773
               }
             },
             {
@@ -565,10 +565,10 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-24T18:26:30Z",
+                "last_commit": "2026-08-25T18:49:21Z",
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3028
+                "stars": 3029
               }
             },
             {
@@ -580,10 +580,10 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-24T18:26:30Z",
+                "last_commit": "2026-08-25T18:49:21Z",
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3028
+                "stars": 3029
               }
             },
             {
@@ -669,7 +669,7 @@
                 "archived": false,
                 "id": 50923823,
                 "language": "Jinja",
-                "last_commit": "2026-08-19T13:37:14Z",
+                "last_commit": "2026-08-25T16:53:39Z",
                 "owner": "shapeblue",
                 "repo": "Trillian",
                 "stars": 14
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:37:26.082Z",
+    "last_updated": "2026-08-25T19:05:41.650Z",
     "original_repository": "ngine-io/awesome-cloudstack",
     "original_repository_id": 90178645,
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",
