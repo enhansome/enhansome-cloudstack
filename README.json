@@ -73,7 +73,7 @@
             "last_commit": "2026-08-21T14:12:18Z",
             "owner": "apache",
             "repo": "cloudstack-cloudmonkey",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -160,7 +160,7 @@
                 "archived": false,
                 "id": 196358567,
                 "language": "Go",
-                "last_commit": "2026-08-26T13:31:46Z",
+                "last_commit": "2026-08-27T07:59:09Z",
                 "owner": "apache",
                 "repo": "cloudstack-kubernetes-provider",
                 "stars": 51
@@ -197,7 +197,7 @@
                 "archived": false,
                 "id": 196358567,
                 "language": "Go",
-                "last_commit": "2026-08-26T13:31:46Z",
+                "last_commit": "2026-08-27T07:59:09Z",
                 "owner": "apache",
                 "repo": "cloudstack-kubernetes-provider",
                 "stars": 51
@@ -406,7 +406,7 @@
                 "last_commit": "2026-08-25T06:34:04Z",
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 384
+                "stars": 385
               }
             },
             {
@@ -737,9 +737,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:15:56.193Z",
-    "original_repository": "ngine-io/awesome-cloudstack",
-    "original_repository_id": 90178645,
+    "last_updated": "2026-08-27T11:34:55.303Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 90178645,
+      "language": null,
+      "last_commit": "2026-05-18T13:12:19Z",
+      "owner": "ngine-io",
+      "repo": "awesome-cloudstack",
+      "stars": 61
+    },
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",
     "enhanced_repository": "enhansome/enhansome-cloudstack",
     "enhanced_repository_description": null,
