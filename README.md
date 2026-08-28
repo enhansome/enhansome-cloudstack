@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,030 | 🐛 984 | 🌐 Java | 📅 2026-08-26
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,030 | 🐛 984 | 🌐 Java | 📅 2026-08-26
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,031 | 🐛 987 | 🌐 Java | 📅 2026-08-27
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,031 | 🐛 987 | 🌐 Java | 📅 2026-08-27
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
@@ -151,7 +151,7 @@
 
 ### Continuous Integrations
 
-* [GitHub CI CloudStack Service Workflow](https://github.com/apache/cloudstack-terraform-provider/blob/main/.github/workflows/acceptance.yml) ⭐ 53 | 🐛 29 | 🌐 Go | 📅 2026-08-19
+* [GitHub CI CloudStack Service Workflow](https://github.com/apache/cloudstack-terraform-provider/blob/main/.github/workflows/acceptance.yml) ⭐ 53 | 🐛 30 | 🌐 Go | 📅 2026-08-19
 * [Trillian](https://github.com/shapeblue/Trillian) ⭐ 14 | 🐛 16 | 🌐 Jinja | 📅 2026-08-26
 * [bubble-blueprint](https://github.com/MissionCriticalCloud/bubble-blueprint) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2025-07-03
 
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
