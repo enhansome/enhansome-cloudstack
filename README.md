@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,031 | 🐛 995 | 🌐 Java | 📅 2026-08-28
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,031 | 🐛 995 | 🌐 Java | 📅 2026-08-28
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,032 | 🐛 998 | 🌐 Java | 📅 2026-08-29
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,032 | 🐛 998 | 🌐 Java | 📅 2026-08-29
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
