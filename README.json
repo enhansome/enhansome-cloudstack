@@ -18,7 +18,8 @@
                 "owner": "PCextreme",
                 "repo": "packer-templates",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "MissionCriticalCloud",
                 "repo": "systemvm-packer",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "MissionCriticalCloud",
                 "repo": "bubble-templates-packer",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -74,7 +77,8 @@
             "owner": "apache",
             "repo": "cloudstack-cloudmonkey",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "ngine-io",
             "repo": "cs",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "apache",
             "repo": "cloudstack-go",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -119,7 +125,8 @@
             "owner": "niwo",
             "repo": "cloudstack-cli",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         }
       ],
       "title": "Command Line Interface Clients"
@@ -142,7 +149,8 @@
                 "owner": "swisstxt",
                 "repo": "ansible-role-cloud-infra",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -164,7 +172,8 @@
                 "owner": "apache",
                 "repo": "cloudstack-kubernetes-provider",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -179,7 +188,8 @@
                 "owner": "shapeblue",
                 "repo": "cloudstack-csi-driver",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -201,7 +211,8 @@
                 "owner": "apache",
                 "repo": "cloudstack-kubernetes-provider",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -223,7 +234,8 @@
                 "owner": "MissionCriticalCloud",
                 "repo": "vagrant-cloudstack",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -249,7 +261,8 @@
             "owner": "ngine-io",
             "repo": "cs",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -264,7 +277,8 @@
             "owner": "xanzy",
             "repo": "go-cloudstack",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -279,7 +293,8 @@
             "owner": "Autonomiccs",
             "repo": "apache-cloudstack-java-client",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -294,7 +309,8 @@
             "owner": "niwo",
             "repo": "cloudstack_client",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -309,7 +325,8 @@
             "owner": "atsaki",
             "repo": "golang-cloudstack-library",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -324,7 +341,8 @@
             "owner": "PCextreme",
             "repo": "cloudstack-php",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -339,7 +357,8 @@
             "owner": "richardlawley",
             "repo": "cloudstack.net",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -354,7 +373,8 @@
             "owner": "myENA",
             "repo": "cloudstack-php-client",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -369,7 +389,8 @@
             "owner": "NuxRo",
             "repo": "vhd-util",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         },
         {
           "node_type": "item",
@@ -384,7 +405,8 @@
             "owner": "Autonomiccs",
             "repo": "apache-cloudstack-javascript-client",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:48:01.829Z"
         }
       ],
       "title": "Libraries"
@@ -407,7 +429,8 @@
                 "owner": "cloudbase",
                 "repo": "garm",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -422,7 +445,8 @@
                 "owner": "exoscale",
                 "repo": "collectd-cloudstack",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -437,7 +461,8 @@
                 "owner": "swisstxt",
                 "repo": "cloudstack-nagios",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -452,7 +477,8 @@
                 "owner": "apache",
                 "repo": "cloudstack-csbench",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -467,7 +493,8 @@
                 "owner": "niwo",
                 "repo": "cloudstats",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -489,7 +516,8 @@
                 "owner": "exentriquesolutions",
                 "repo": "nip.io",
                 "stars": 1773
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -504,7 +532,8 @@
                 "owner": "eriweb",
                 "repo": "powerdns-cloudstack-proxy-dns",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -526,7 +555,8 @@
                 "owner": "ngine-io",
                 "repo": "chaotic",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -541,7 +571,8 @@
                 "owner": "ngine-io",
                 "repo": "scalr",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -565,11 +596,12 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-27T20:50:18Z",
+                "last_commit": "2026-08-28T22:44:42Z",
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3031
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -580,11 +612,12 @@
                 "archived": false,
                 "id": 9759448,
                 "language": "Java",
-                "last_commit": "2026-08-27T20:50:18Z",
+                "last_commit": "2026-08-28T22:44:42Z",
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3031
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -599,7 +632,8 @@
                 "owner": "shapeblue",
                 "repo": "hackerbook",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -621,7 +655,8 @@
                 "owner": "ansible",
                 "repo": "cloudstack-test-container",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -636,7 +671,8 @@
                 "owner": "shapeblue",
                 "repo": "mbx",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -654,11 +690,12 @@
                 "archived": false,
                 "id": 360431125,
                 "language": "Go",
-                "last_commit": "2026-08-19T09:16:45Z",
+                "last_commit": "2026-08-28T12:07:55Z",
                 "owner": "apache",
                 "repo": "cloudstack-terraform-provider",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -673,7 +710,8 @@
                 "owner": "shapeblue",
                 "repo": "Trillian",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -688,7 +726,8 @@
                 "owner": "MissionCriticalCloud",
                 "repo": "bubble-blueprint",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -710,7 +749,8 @@
                 "owner": "khos2ow",
                 "repo": "cloudstack-deb-builder",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             },
             {
               "node_type": "item",
@@ -725,7 +765,8 @@
                 "owner": "khos2ow",
                 "repo": "cloudstack-rpm-builder",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:48:01.829Z"
             }
           ],
           "description": null,
@@ -737,7 +778,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:13:13.199Z",
+    "last_updated": "2026-08-29T01:48:01.829Z",
     "original_repository_info": {
       "archived": false,
       "id": 90178645,
@@ -745,7 +786,7 @@
       "last_commit": "2026-05-18T13:12:19Z",
       "owner": "ngine-io",
       "repo": "awesome-cloudstack",
-      "stars": 61
+      "stars": 63
     },
     "original_repository_sha": "062efa8a69f85ee8071fa9b6636f27688e9bfe90",
     "enhanced_repository": "enhansome/enhansome-cloudstack",
