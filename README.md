@@ -49,7 +49,7 @@
 
 * [cmk - Apache CloudMonkey (Official Go-based CLI)](https://github.com/apache/cloudstack-cloudmonkey) ⭐ 119 | 🐛 19 | 🌐 Go | 📅 2026-08-21
 * [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 0 | 🌐 Python | 📅 2026-08-24
-* [CloudStack Go-SDK (Official SDK)](https://github.com/apache/cloudstack-go) ⭐ 39 | 🐛 17 | 🌐 Go | 📅 2026-08-17
+* [CloudStack Go-SDK (Official SDK)](https://github.com/apache/cloudstack-go) ⭐ 39 | 🐛 16 | 🌐 Go | 📅 2026-08-17
 * [cloudstack-cli (Ruby)](https://github.com/niwo/cloudstack-cli) ⭐ 17 | 🐛 0 | 🌐 Ruby | 📅 2026-04-16
 
 ## Configuration Management Integrations
@@ -92,7 +92,7 @@
 
 ### Montitoring and Graphs
 
-* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 387 | 🐛 29 | 🌐 Go | 📅 2026-08-25
+* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 388 | 🐛 29 | 🌐 Go | 📅 2026-08-25
 * [collectd-cloudstack Plugin](https://github.com/exoscale/collectd-cloudstack) ⚠️ Archived
 * [CloudStack Nagios Monitoring by SWISS TXT](https://github.com/swisstxt/cloudstack-nagios) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2021-09-02
 * [csbench - CloudStack Benchmarking Tool](https://github.com/apache/cloudstack-csbench) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2026-05-15
@@ -111,8 +111,8 @@
 
 ### Misc
 
-* [Chaotic - Chaos for Clouds](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 9 | 🌐 Python | 📅 2026-08-17
-* [Scalr - Autoscaling for Clouds](https://github.com/ngine-io/scalr) ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2026-08-24
+* [Chaotic - Chaos for Clouds](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 3 | 🌐 Python | 📅 2026-08-30
+* [Scalr - Autoscaling for Clouds](https://github.com/ngine-io/scalr) ⭐ 50 | 🐛 5 | 🌐 Python | 📅 2026-08-30
 * [Alternative CloudStack-UI by Bitworks Software, Ltd.](https://bwsw.github.io/cloudstack-ui/)
 
 ## Public Cloud Providers
@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,032 | 🐛 998 | 🌐 Java | 📅 2026-08-29
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,032 | 🐛 998 | 🌐 Java | 📅 2026-08-29
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,031 | 🐛 998 | 🌐 Java | 📅 2026-08-29
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,031 | 🐛 998 | 🌐 Java | 📅 2026-08-29
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
@@ -152,7 +152,7 @@
 ### Continuous Integrations
 
 * [GitHub CI CloudStack Service Workflow](https://github.com/apache/cloudstack-terraform-provider/blob/main/.github/workflows/acceptance.yml) ⭐ 53 | 🐛 36 | 🌐 Go | 📅 2026-08-28
-* [Trillian](https://github.com/shapeblue/Trillian) ⭐ 14 | 🐛 16 | 🌐 Jinja | 📅 2026-08-26
+* [Trillian](https://github.com/shapeblue/Trillian) ⭐ 14 | 🐛 16 | 🌐 Jinja | 📅 2026-08-30
 * [bubble-blueprint](https://github.com/MissionCriticalCloud/bubble-blueprint) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2025-07-03
 
 ### Build with Docker
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
