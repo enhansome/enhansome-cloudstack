@@ -92,7 +92,7 @@
 
 ### Montitoring and Graphs
 
-* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 393 | 🐛 27 | 🌐 Go | 📅 2026-09-04
+* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 393 | 🐛 26 | 🌐 Go | 📅 2026-09-04
 * [collectd-cloudstack Plugin](https://github.com/exoscale/collectd-cloudstack) ⚠️ Archived
 * [CloudStack Nagios Monitoring by SWISS TXT](https://github.com/swisstxt/cloudstack-nagios) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2021-09-02
 * [csbench - CloudStack Benchmarking Tool](https://github.com/apache/cloudstack-csbench) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2026-05-15
@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,042 | 🐛 1,009 | 🌐 Java | 📅 2026-09-04
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,042 | 🐛 1,009 | 🌐 Java | 📅 2026-09-04
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,044 | 🐛 1,011 | 🌐 Java | 📅 2026-09-05
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,044 | 🐛 1,011 | 🌐 Java | 📅 2026-09-05
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
