@@ -821,8 +821,8 @@
                 "id": 274773607,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T14:53:19Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-06T14:53:03Z",
+                "open_issues": 7,
                 "owner": "ngine-io",
                 "repo": "scalr",
                 "stars": 50,
@@ -865,10 +865,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-05T19:18:50Z",
-                "open_issues": 1011,
+                "open_issues": 1012,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3044,
+                "stars": 3045,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -903,10 +903,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-05T19:18:50Z",
-                "open_issues": 1011,
+                "open_issues": 1012,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3044,
+                "stars": 3045,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:30:00.982Z",
+    "last_updated": "2026-09-06T20:32:50.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",
