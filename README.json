@@ -595,11 +595,11 @@
                 "id": 488973970,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T23:03:37Z",
+                "last_commit": "2026-09-14T08:19:26Z",
                 "open_issues": 22,
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "actions-runner",
                   "autoscaler",
@@ -742,7 +742,7 @@
                 "open_issues": 16,
                 "owner": "exentriquesolutions",
                 "repo": "nip.io",
-                "stars": 1774,
+                "stars": 1775,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:48:01.829Z"
@@ -864,11 +864,11 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T08:47:09Z",
-                "open_issues": 1023,
+                "last_commit": "2026-09-14T19:57:46Z",
+                "open_issues": 1024,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3054,
+                "stars": 3058,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -902,11 +902,11 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T08:47:09Z",
-                "open_issues": 1023,
+                "last_commit": "2026-09-14T19:57:46Z",
+                "open_issues": 1024,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3054,
+                "stars": 3058,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -1023,7 +1023,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T10:09:35Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "apache",
                 "repo": "cloudstack-terraform-provider",
                 "stars": 53,
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T20:57:40.004Z",
+    "last_updated": "2026-09-14T21:55:00.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",
