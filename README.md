@@ -48,7 +48,7 @@
 ## Command Line Interface Clients
 
 * [cmk - Apache CloudMonkey (Official Go-based CLI)](https://github.com/apache/cloudstack-cloudmonkey) ⭐ 120 | 🐛 8 | 🌐 Go | 📅 2026-09-10
-* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2026-09-16
+* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 0 | 🌐 Python | 📅 2026-09-21
 * [CloudStack Go-SDK (Official SDK)](https://github.com/apache/cloudstack-go) ⭐ 39 | 🐛 17 | 🌐 Go | 📅 2026-08-17
 * [cloudstack-cli (Ruby)](https://github.com/niwo/cloudstack-cli) ⭐ 17 | 🐛 0 | 🌐 Ruby | 📅 2026-04-16
 
@@ -61,13 +61,13 @@
 
 ### Kubernetes
 
-* [CloudStack Kubernetes Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 15 | 🌐 Go | 📅 2026-09-18
+* [CloudStack Kubernetes Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 11 | 🌐 Go | 📅 2026-09-21
 * [CloudStack CSI Driver](https://github.com/shapeblue/cloudstack-csi-driver) ⭐ 1 | 🐛 15 | 🌐 Go | 📅 2026-08-23
 * [CAPC - Cluster API Provider for CloudStack](https://cluster-api-cloudstack.sigs.k8s.io/introduction)
 
 ### Terraform
 
-* [CloudStack Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 15 | 🌐 Go | 📅 2026-09-18
+* [CloudStack Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 11 | 🌐 Go | 📅 2026-09-21
 
 ### Vagrant
 
@@ -75,7 +75,7 @@
 
 ## Libraries
 
-* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 3 | 🌐 Python | 📅 2026-09-16
+* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 0 | 🌐 Python | 📅 2026-09-21
 * [go-cloudstack (Go)](https://github.com/xanzy/go-cloudstack) ⚠️ Archived
 * [apache-cloudstack-java-client (Java)](https://github.com/Autonomiccs/apache-cloudstack-java-client) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2019-03-13
 * [cloudstack\_client (Ruby)](https://github.com/niwo/cloudstack_client) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2026-09-20
@@ -92,7 +92,7 @@
 
 ### Montitoring and Graphs
 
-* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 405 | 🐛 23 | 🌐 Go | 📅 2026-09-20
+* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 405 | 🐛 21 | 🌐 Go | 📅 2026-09-21
 * [collectd-cloudstack Plugin](https://github.com/exoscale/collectd-cloudstack) ⚠️ Archived
 * [CloudStack Nagios Monitoring by SWISS TXT](https://github.com/swisstxt/cloudstack-nagios) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2021-09-02
 * [csbench - CloudStack Benchmarking Tool](https://github.com/apache/cloudstack-csbench) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2026-05-15
@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,075 | 🐛 1,054 | 🌐 Java | 📅 2026-09-19
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,075 | 🐛 1,054 | 🌐 Java | 📅 2026-09-19
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,077 | 🐛 1,060 | 🌐 Java | 📅 2026-09-19
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,077 | 🐛 1,060 | 🌐 Java | 📅 2026-09-19
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
@@ -151,7 +151,7 @@
 
 ### Continuous Integrations
 
-* [GitHub CI CloudStack Service Workflow](https://github.com/apache/cloudstack-terraform-provider/blob/main/.github/workflows/acceptance.yml) ⭐ 53 | 🐛 39 | 🌐 Go | 📅 2026-09-15
+* [GitHub CI CloudStack Service Workflow](https://github.com/apache/cloudstack-terraform-provider/blob/main/.github/workflows/acceptance.yml) ⭐ 53 | 🐛 39 | 🌐 Go | 📅 2026-09-21
 * [Trillian](https://github.com/shapeblue/Trillian) ⭐ 14 | 🐛 17 | 🌐 Jinja | 📅 2026-09-20
 * [bubble-blueprint](https://github.com/MissionCriticalCloud/bubble-blueprint) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2025-07-03
 
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
