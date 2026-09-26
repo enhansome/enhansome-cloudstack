@@ -432,7 +432,7 @@
             "id": 15166059,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-20T12:03:25Z",
+            "last_commit": "2026-09-26T07:06:43Z",
             "open_issues": 0,
             "owner": "niwo",
             "repo": "cloudstack_client",
@@ -599,7 +599,7 @@
                 "open_issues": 22,
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 407,
+                "stars": 408,
                 "topics": [
                   "actions-runner",
                   "autoscaler",
@@ -742,7 +742,7 @@
                 "open_issues": 16,
                 "owner": "exentriquesolutions",
                 "repo": "nip.io",
-                "stars": 1774,
+                "stars": 1775,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:48:01.829Z"
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T21:41:31.997Z",
+    "last_updated": "2026-09-26T21:18:35.115Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",

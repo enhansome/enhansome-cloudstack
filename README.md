@@ -78,7 +78,7 @@
 * [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 0 | 🌐 Python | 📅 2026-09-24
 * [go-cloudstack (Go)](https://github.com/xanzy/go-cloudstack) ⚠️ Archived
 * [apache-cloudstack-java-client (Java)](https://github.com/Autonomiccs/apache-cloudstack-java-client) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2019-03-13
-* [cloudstack\_client (Ruby)](https://github.com/niwo/cloudstack_client) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2026-09-20
+* [cloudstack\_client (Ruby)](https://github.com/niwo/cloudstack_client) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2026-09-26
 * [golang-cloudstack-library (Go)](https://github.com/atsaki/golang-cloudstack-library) ⭐ 10 | 🐛 2 | 🌐 Go | 📅 2017-03-25
 * [cloudstack-php (PHP)](https://github.com/PCextreme/cloudstack-php) ⚠️ Archived
 * [.NET SDK for CloudStack](https://github.com/richardlawley/cloudstack.net) ⭐ 8 | 🐛 3 | 🌐 C# | 📅 2022-06-22
@@ -92,7 +92,7 @@
 
 ### Montitoring and Graphs
 
-* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 407 | 🐛 22 | 🌐 Go | 📅 2026-09-24
+* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 408 | 🐛 22 | 🌐 Go | 📅 2026-09-24
 * [collectd-cloudstack Plugin](https://github.com/exoscale/collectd-cloudstack) ⚠️ Archived
 * [CloudStack Nagios Monitoring by SWISS TXT](https://github.com/swisstxt/cloudstack-nagios) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2021-09-02
 * [csbench - CloudStack Benchmarking Tool](https://github.com/apache/cloudstack-csbench) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2026-05-15
@@ -100,7 +100,7 @@
 
 ### RealHostIP replacement
 
-* [nip.io - realhostip compatible service](https://github.com/exentriquesolutions/nip.io) ⭐ 1,774 | 🐛 16 | 🌐 Python | 📅 2026-06-19
+* [nip.io - realhostip compatible service](https://github.com/exentriquesolutions/nip.io) ⭐ 1,775 | 🐛 16 | 🌐 Python | 📅 2026-06-19
 * [powerdns-cloudstack-proxy-dns](https://github.com/terbolous/powerdns-cloudstack-proxy-dns) ⭐ 2 | 🐛 1 | 🌐 Lua | 📅 2014-06-26
 
 ### Billing Solutions
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
