@@ -92,7 +92,7 @@
 
 ### Montitoring and Graphs
 
-* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 408 | 🐛 22 | 🌐 Go | 📅 2026-09-24
+* [garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners](https://github.com/cloudbase/garm) ⭐ 408 | 🐛 21 | 🌐 Go | 📅 2026-09-28
 * [collectd-cloudstack Plugin](https://github.com/exoscale/collectd-cloudstack) ⚠️ Archived
 * [CloudStack Nagios Monitoring by SWISS TXT](https://github.com/swisstxt/cloudstack-nagios) ⭐ 6 | 🐛 0 | 🌐 Ruby | 📅 2021-09-02
 * [csbench - CloudStack Benchmarking Tool](https://github.com/apache/cloudstack-csbench) ⭐ 6 | 🐛 4 | 🌐 Go | 📅 2026-05-15
@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,082 | 🐛 1,084 | 🌐 Java | 📅 2026-09-25
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,082 | 🐛 1,084 | 🌐 Java | 📅 2026-09-25
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,082 | 🐛 1,089 | 🌐 Java | 📅 2026-09-28
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,082 | 🐛 1,089 | 🌐 Java | 📅 2026-09-28
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
@@ -152,7 +152,7 @@
 ### Continuous Integrations
 
 * [GitHub CI CloudStack Service Workflow](https://github.com/apache/cloudstack-terraform-provider/blob/main/.github/workflows/acceptance.yml) ⭐ 53 | 🐛 39 | 🌐 Go | 📅 2026-09-21
-* [Trillian](https://github.com/shapeblue/Trillian) ⭐ 14 | 🐛 18 | 🌐 Jinja | 📅 2026-09-25
+* [Trillian](https://github.com/shapeblue/Trillian) ⭐ 14 | 🐛 19 | 🌐 Jinja | 📅 2026-09-28
 * [bubble-blueprint](https://github.com/MissionCriticalCloud/bubble-blueprint) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2025-07-03
 
 ### Build with Docker
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
