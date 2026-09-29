@@ -61,13 +61,13 @@
 
 ### Kubernetes
 
-* [CloudStack Kubernetes Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 12 | 🌐 Go | 📅 2026-09-23
+* [CloudStack Kubernetes Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 12 | 🌐 Go | 📅 2026-09-29
 * [CloudStack CSI Driver](https://github.com/shapeblue/cloudstack-csi-driver) ⭐ 1 | 🐛 15 | 🌐 Go | 📅 2026-08-23
 * [CAPC - Cluster API Provider for CloudStack](https://cluster-api-cloudstack.sigs.k8s.io/introduction)
 
 ### Terraform
 
-* [CloudStack Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 12 | 🌐 Go | 📅 2026-09-23
+* [CloudStack Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 12 | 🌐 Go | 📅 2026-09-29
 
 ### Vagrant
 
@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,082 | 🐛 1,089 | 🌐 Java | 📅 2026-09-28
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,082 | 🐛 1,089 | 🌐 Java | 📅 2026-09-28
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,082 | 🐛 1,097 | 🌐 Java | 📅 2026-09-29
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,082 | 🐛 1,097 | 🌐 Java | 📅 2026-09-29
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
@@ -151,8 +151,8 @@
 
 ### Continuous Integrations
 
-* [GitHub CI CloudStack Service Workflow](https://github.com/apache/cloudstack-terraform-provider/blob/main/.github/workflows/acceptance.yml) ⭐ 53 | 🐛 39 | 🌐 Go | 📅 2026-09-21
-* [Trillian](https://github.com/shapeblue/Trillian) ⭐ 14 | 🐛 19 | 🌐 Jinja | 📅 2026-09-28
+* [GitHub CI CloudStack Service Workflow](https://github.com/apache/cloudstack-terraform-provider/blob/main/.github/workflows/acceptance.yml) ⭐ 53 | 🐛 40 | 🌐 Go | 📅 2026-09-21
+* [Trillian](https://github.com/shapeblue/Trillian) ⭐ 14 | 🐛 18 | 🌐 Jinja | 📅 2026-09-29
 * [bubble-blueprint](https://github.com/MissionCriticalCloud/bubble-blueprint) ⭐ 5 | 🐛 2 | 🌐 Python | 📅 2025-07-03
 
 ### Build with Docker
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
