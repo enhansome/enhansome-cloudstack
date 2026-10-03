@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Instance Templates Packer by PCextreme",
-              "description": null,
+              "description": "PCextreme/packer-templates",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -29,7 +29,7 @@
             {
               "node_type": "item",
               "title": "SystemVM Packer",
-              "description": null,
+              "description": "MissionCriticalCloud/systemvm-packer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -55,7 +55,7 @@
             {
               "node_type": "item",
               "title": "Instance Templates Packer by Schuberg Philis",
-              "description": null,
+              "description": "MissionCriticalCloud/bubble-templates-packer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -87,7 +87,7 @@
         {
           "node_type": "item",
           "title": "cmk - Apache CloudMonkey (Official Go-based CLI)",
-          "description": null,
+          "description": "apache/cloudstack-cloudmonkey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -112,7 +112,7 @@
         {
           "node_type": "item",
           "title": "cs (Python)",
-          "description": null,
+          "description": "ngine-io/cs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -137,7 +137,7 @@
         {
           "node_type": "item",
           "title": "CloudStack Go-SDK (Official SDK)",
-          "description": null,
+          "description": "apache/cloudstack-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -162,7 +162,7 @@
         {
           "node_type": "item",
           "title": "cloudstack-cli (Ruby)",
-          "description": null,
+          "description": "niwo/cloudstack-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -194,7 +194,7 @@
             {
               "node_type": "item",
               "title": "Ansible Cloud Infra Role (Advanced Networking)",
-              "description": null,
+              "description": "swisstxt/ansible-role-cloud-infra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -225,7 +225,7 @@
             {
               "node_type": "item",
               "title": "CloudStack Kubernetes Provider",
-              "description": null,
+              "description": "apache/cloudstack-kubernetes-provider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -251,7 +251,7 @@
             {
               "node_type": "item",
               "title": "CloudStack CSI Driver",
-              "description": null,
+              "description": "shapeblue/cloudstack-csi-driver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -286,7 +286,7 @@
             {
               "node_type": "item",
               "title": "CloudStack Provider",
-              "description": null,
+              "description": "apache/cloudstack-kubernetes-provider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -319,7 +319,7 @@
             {
               "node_type": "item",
               "title": "Vagrant Cloudstack Provider",
-              "description": null,
+              "description": "MissionCriticalCloud/vagrant-cloudstack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -356,7 +356,7 @@
         {
           "node_type": "item",
           "title": "cs (Python)",
-          "description": null,
+          "description": "ngine-io/cs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -381,7 +381,7 @@
         {
           "node_type": "item",
           "title": "go-cloudstack (Go)",
-          "description": null,
+          "description": "xanzy/go-cloudstack",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -402,7 +402,7 @@
         {
           "node_type": "item",
           "title": "apache-cloudstack-java-client (Java)",
-          "description": null,
+          "description": "Autonomiccs/apache-cloudstack-java-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -423,7 +423,7 @@
         {
           "node_type": "item",
           "title": "cloudstack_client (Ruby)",
-          "description": null,
+          "description": "niwo/cloudstack_client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -432,8 +432,8 @@
             "id": 15166059,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-26T07:06:43Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-02T22:54:00Z",
+            "open_issues": 1,
             "owner": "niwo",
             "repo": "cloudstack_client",
             "stars": 14,
@@ -447,7 +447,7 @@
         {
           "node_type": "item",
           "title": "golang-cloudstack-library (Go)",
-          "description": null,
+          "description": "atsaki/golang-cloudstack-library",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -468,7 +468,7 @@
         {
           "node_type": "item",
           "title": "cloudstack-php (PHP)",
-          "description": null,
+          "description": "PCextreme/cloudstack-php",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -489,7 +489,7 @@
         {
           "node_type": "item",
           "title": ".NET SDK for CloudStack",
-          "description": null,
+          "description": "richardlawley/cloudstack.net",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -510,7 +510,7 @@
         {
           "node_type": "item",
           "title": "cloudstack PHP Client (PHP - ACS 4.10 compatible)",
-          "description": null,
+          "description": "myENA/cloudstack-php-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -536,7 +536,7 @@
         {
           "node_type": "item",
           "title": "vhd-util for manipulating Xen VHDs",
-          "description": null,
+          "description": "NuxRo/vhd-util",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -557,7 +557,7 @@
         {
           "node_type": "item",
           "title": "apache-cloudstack-javascript-client (JavaScript)",
-          "description": null,
+          "description": "Autonomiccs/apache-cloudstack-javascript-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -586,7 +586,7 @@
             {
               "node_type": "item",
               "title": "garm - Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners",
-              "description": null,
+              "description": "cloudbase/garm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -627,7 +627,7 @@
             {
               "node_type": "item",
               "title": "collectd-cloudstack Plugin",
-              "description": null,
+              "description": "exoscale/collectd-cloudstack",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -648,7 +648,7 @@
             {
               "node_type": "item",
               "title": "CloudStack Nagios Monitoring by SWISS TXT",
-              "description": null,
+              "description": "swisstxt/cloudstack-nagios",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -673,7 +673,7 @@
             {
               "node_type": "item",
               "title": "csbench - CloudStack Benchmarking Tool",
-              "description": null,
+              "description": "apache/cloudstack-csbench",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -699,7 +699,7 @@
             {
               "node_type": "item",
               "title": "CloudStack Statistics into InfluxDB",
-              "description": null,
+              "description": "niwo/cloudstats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -729,7 +729,7 @@
             {
               "node_type": "item",
               "title": "nip.io - realhostip compatible service",
-              "description": null,
+              "description": "exentriquesolutions/nip.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -750,7 +750,7 @@
             {
               "node_type": "item",
               "title": "powerdns-cloudstack-proxy-dns",
-              "description": null,
+              "description": "eriweb/powerdns-cloudstack-proxy-dns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -778,7 +778,7 @@
             {
               "node_type": "item",
               "title": "Chaotic - Chaos for Clouds",
-              "description": null,
+              "description": "ngine-io/chaotic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -812,7 +812,7 @@
             {
               "node_type": "item",
               "title": "Scalr - Autoscaling for Clouds",
-              "description": null,
+              "description": "ngine-io/scalr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -855,7 +855,7 @@
             {
               "node_type": "item",
               "title": "apache/cloudstack",
-              "description": null,
+              "description": "apache/cloudstack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -868,7 +868,7 @@
                 "open_issues": 1113,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3086,
+                "stars": 3087,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -893,7 +893,7 @@
             {
               "node_type": "item",
               "title": "Apache CloudStack Issue Tracker - GitHub",
-              "description": null,
+              "description": "apache/cloudstack",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -906,7 +906,7 @@
                 "open_issues": 1113,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3086,
+                "stars": 3087,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -959,7 +959,7 @@
             {
               "node_type": "item",
               "title": "CloudStack Simulator Container",
-              "description": null,
+              "description": "ansible/cloudstack-test-container",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1013,7 +1013,7 @@
             {
               "node_type": "item",
               "title": "GitHub CI CloudStack Service Workflow",
-              "description": null,
+              "description": "apache/cloudstack-terraform-provider",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1038,7 +1038,7 @@
             {
               "node_type": "item",
               "title": "Trillian",
-              "description": null,
+              "description": "shapeblue/Trillian",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1059,7 +1059,7 @@
             {
               "node_type": "item",
               "title": "bubble-blueprint",
-              "description": null,
+              "description": "MissionCriticalCloud/bubble-blueprint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1087,7 +1087,7 @@
             {
               "node_type": "item",
               "title": "DEB Builder",
-              "description": null,
+              "description": "khos2ow/cloudstack-deb-builder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1116,7 +1116,7 @@
             {
               "node_type": "item",
               "title": "RPM Builder",
-              "description": null,
+              "description": "khos2ow/cloudstack-rpm-builder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:22:33.878Z",
+    "last_updated": "2026-10-03T04:38:40.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",

@@ -78,7 +78,7 @@
 * [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2026-09-30
 * [go-cloudstack (Go)](https://github.com/xanzy/go-cloudstack) ⚠️ Archived
 * [apache-cloudstack-java-client (Java)](https://github.com/Autonomiccs/apache-cloudstack-java-client) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2019-03-13
-* [cloudstack\_client (Ruby)](https://github.com/niwo/cloudstack_client) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2026-09-26
+* [cloudstack\_client (Ruby)](https://github.com/niwo/cloudstack_client) ⭐ 14 | 🐛 1 | 🌐 Ruby | 📅 2026-10-02
 * [golang-cloudstack-library (Go)](https://github.com/atsaki/golang-cloudstack-library) ⭐ 10 | 🐛 2 | 🌐 Go | 📅 2017-03-25
 * [cloudstack-php (PHP)](https://github.com/PCextreme/cloudstack-php) ⚠️ Archived
 * [.NET SDK for CloudStack](https://github.com/richardlawley/cloudstack.net) ⭐ 8 | 🐛 3 | 🌐 C# | 📅 2022-06-22
@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,086 | 🐛 1,113 | 🌐 Java | 📅 2026-10-02
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,086 | 🐛 1,113 | 🌐 Java | 📅 2026-10-02
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,087 | 🐛 1,113 | 🌐 Java | 📅 2026-10-02
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,087 | 🐛 1,113 | 🌐 Java | 📅 2026-10-02
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
@@ -185,4 +185,4 @@ Awesome CloudStack is licensed under a [Creative Commons Attribution 4.0 Interna
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
