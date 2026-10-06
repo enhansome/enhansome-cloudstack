@@ -62,7 +62,7 @@
 ### Kubernetes
 
 * [CloudStack Kubernetes Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 10 | 🌐 Go | 📅 2026-10-06
-* [CloudStack CSI Driver](https://github.com/shapeblue/cloudstack-csi-driver) ⭐ 1 | 🐛 22 | 🌐 Go | 📅 2026-10-02
+* [CloudStack CSI Driver](https://github.com/shapeblue/cloudstack-csi-driver) ⭐ 1 | 🐛 26 | 🌐 Go | 📅 2026-10-02
 * [CAPC - Cluster API Provider for CloudStack](https://cluster-api-cloudstack.sigs.k8s.io/introduction)
 
 ### Terraform
@@ -138,9 +138,9 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,090 | 🐛 1,126 | 🌐 Java | 📅 2026-10-05
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,090 | 🐛 1,126 | 🌐 Java | 📅 2026-10-05
-* [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 73 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,090 | 🐛 1,126 | 🌐 Java | 📅 2026-10-06
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,090 | 🐛 1,126 | 🌐 Java | 📅 2026-10-06
+* [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 74 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
 ### Development Environment
