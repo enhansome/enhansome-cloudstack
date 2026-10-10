@@ -595,11 +595,11 @@
                 "id": 488973970,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T22:32:01Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-10T21:48:32Z",
+                "open_issues": 19,
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 411,
+                "stars": 413,
                 "topics": [
                   "actions-runner",
                   "autoscaler",
@@ -821,7 +821,7 @@
                 "id": 274773607,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T23:21:23Z",
+                "last_commit": "2026-10-10T01:57:26Z",
                 "open_issues": 5,
                 "owner": "ngine-io",
                 "repo": "scalr",
@@ -865,10 +865,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T20:57:00Z",
-                "open_issues": 1166,
+                "open_issues": 1167,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3092,
+                "stars": 3094,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -903,10 +903,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T20:57:00Z",
-                "open_issues": 1166,
+                "open_issues": 1167,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3092,
+                "stars": 3094,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T22:45:42.034Z",
+    "last_updated": "2026-10-10T21:52:54.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",
