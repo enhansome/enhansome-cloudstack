@@ -48,7 +48,7 @@
 ## Command Line Interface Clients
 
 * [cmk - Apache CloudMonkey (Official Go-based CLI)](https://github.com/apache/cloudstack-cloudmonkey) ⭐ 120 | 🐛 9 | 🌐 Go | 📅 2026-10-12
-* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2026-10-07
+* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2026-10-13
 * [CloudStack Go-SDK (Official SDK)](https://github.com/apache/cloudstack-go) ⭐ 39 | 🐛 17 | 🌐 Go | 📅 2026-08-17
 * [cloudstack-cli (Ruby)](https://github.com/niwo/cloudstack-cli) ⭐ 17 | 🐛 0 | 🌐 Ruby | 📅 2026-04-16
 
@@ -61,13 +61,13 @@
 
 ### Kubernetes
 
-* [CloudStack Kubernetes Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 9 | 🌐 Go | 📅 2026-10-12
+* [CloudStack Kubernetes Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 9 | 🌐 Go | 📅 2026-10-13
 * [CloudStack CSI Driver](https://github.com/shapeblue/cloudstack-csi-driver) ⭐ 1 | 🐛 26 | 🌐 Go | 📅 2026-10-02
 * [CAPC - Cluster API Provider for CloudStack](https://cluster-api-cloudstack.sigs.k8s.io/introduction)
 
 ### Terraform
 
-* [CloudStack Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 9 | 🌐 Go | 📅 2026-10-12
+* [CloudStack Provider](https://github.com/apache/cloudstack-kubernetes-provider) ⭐ 52 | 🐛 9 | 🌐 Go | 📅 2026-10-13
 
 ### Vagrant
 
@@ -75,7 +75,7 @@
 
 ## Libraries
 
-* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2026-10-07
+* [cs (Python)](https://github.com/ngine-io/cs) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2026-10-13
 * [go-cloudstack (Go)](https://github.com/xanzy/go-cloudstack) ⚠️ Archived
 * [apache-cloudstack-java-client (Java)](https://github.com/Autonomiccs/apache-cloudstack-java-client) ⭐ 20 | 🐛 0 | 🌐 Java | 📅 2019-03-13
 * [cloudstack\_client (Ruby)](https://github.com/niwo/cloudstack_client) ⭐ 14 | 🐛 1 | 🌐 Ruby | 📅 2026-10-02
@@ -111,7 +111,7 @@
 
 ### Misc
 
-* [Chaotic - Chaos for Clouds](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 7 | 🌐 Python | 📅 2026-10-09
+* [Chaotic - Chaos for Clouds](https://github.com/ngine-io/chaotic) ⭐ 74 | 🐛 8 | 🌐 Python | 📅 2026-10-13
 * [Scalr - Autoscaling for Clouds](https://github.com/ngine-io/scalr) ⭐ 50 | 🐛 9 | 🌐 Python | 📅 2026-10-13
 * [Alternative CloudStack-UI by Bitworks Software, Ltd.](https://bwsw.github.io/cloudstack-ui/)
 
@@ -138,8 +138,8 @@
 
 ### Main
 
-* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,097 | 🐛 1,173 | 🌐 Java | 📅 2026-10-12
-* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,097 | 🐛 1,173 | 🌐 Java | 📅 2026-10-12
+* [GitHub](https://github.com/apache/cloudstack) ⭐ 3,098 | 🐛 1,180 | 🌐 Java | 📅 2026-10-13
+* [Apache CloudStack Issue Tracker - GitHub](https://github.com/apache/cloudstack/issues) ⭐ 3,098 | 🐛 1,180 | 🌐 Java | 📅 2026-10-13
 * [Hackerbook](https://github.com/shapeblue/hackerbook) ⭐ 75 | 🐛 0 | 📅 2026-01-25 - Guide to CloudStack Development
 * [Apache CloudStack Issue Tracker - Jira (retired)](https://issues.apache.org/jira/browse/CLOUDSTACK)
 
