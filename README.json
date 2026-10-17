@@ -599,7 +599,7 @@
                 "open_issues": 16,
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 417,
+                "stars": 419,
                 "topics": [
                   "actions-runner",
                   "autoscaler",
@@ -865,10 +865,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T06:28:29Z",
-                "open_issues": 1201,
+                "open_issues": 1202,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3103,
+                "stars": 3104,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -903,10 +903,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T06:28:29Z",
-                "open_issues": 1201,
+                "open_issues": 1202,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3103,
+                "stars": 3104,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T21:24:46.774Z",
+    "last_updated": "2026-10-17T20:45:27.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",
