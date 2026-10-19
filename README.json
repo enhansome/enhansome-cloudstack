@@ -742,7 +742,7 @@
                 "open_issues": 16,
                 "owner": "exentriquesolutions",
                 "repo": "nip.io",
-                "stars": 1774,
+                "stars": 1776,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:48:01.829Z"
@@ -864,11 +864,11 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T06:28:29Z",
-                "open_issues": 1203,
+                "last_commit": "2026-10-19T22:11:41Z",
+                "open_issues": 1198,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3107,
+                "stars": 3110,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -902,11 +902,11 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T06:28:29Z",
-                "open_issues": 1203,
+                "last_commit": "2026-10-19T22:11:41Z",
+                "open_issues": 1198,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3107,
+                "stars": 3110,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:54:32.969Z",
+    "last_updated": "2026-10-19T22:29:43.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",
