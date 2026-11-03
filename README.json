@@ -595,11 +595,11 @@
                 "id": 488973970,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T16:14:54Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-02T20:51:57Z",
+                "open_issues": 23,
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 434,
+                "stars": 444,
                 "topics": [
                   "actions-runner",
                   "autoscaler",
@@ -864,11 +864,11 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T21:41:25Z",
-                "open_issues": 1230,
+                "last_commit": "2026-11-02T16:37:21Z",
+                "open_issues": 1241,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3123,
+                "stars": 3125,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -902,11 +902,11 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T21:41:25Z",
-                "open_issues": 1230,
+                "last_commit": "2026-11-02T16:37:21Z",
+                "open_issues": 1241,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3123,
+                "stars": 3125,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:12:50.238Z",
+    "last_updated": "2026-11-03T01:04:35.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",
