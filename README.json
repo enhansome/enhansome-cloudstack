@@ -864,11 +864,11 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T16:16:34Z",
-                "open_issues": 1259,
+                "last_commit": "2026-11-07T03:10:32Z",
+                "open_issues": 1273,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3128,
+                "stars": 3129,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -902,11 +902,11 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T16:16:34Z",
-                "open_issues": 1259,
+                "last_commit": "2026-11-07T03:10:32Z",
+                "open_issues": 1273,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3128,
+                "stars": 3129,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:18:34.552Z",
+    "last_updated": "2026-11-07T22:03:50.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",
