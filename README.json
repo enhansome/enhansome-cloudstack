@@ -432,7 +432,7 @@
             "id": 15166059,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:54:00Z",
+            "last_commit": "2026-11-20T22:54:14Z",
             "open_issues": 1,
             "owner": "niwo",
             "repo": "cloudstack_client",
@@ -599,7 +599,7 @@
                 "open_issues": 34,
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 473,
+                "stars": 478,
                 "topics": [
                   "actions-runner",
                   "autoscaler",
@@ -864,8 +864,8 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T10:18:49Z",
-                "open_issues": 1296,
+                "last_commit": "2026-11-20T13:40:01Z",
+                "open_issues": 1295,
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3138,
@@ -902,8 +902,8 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T10:18:49Z",
-                "open_issues": 1296,
+                "last_commit": "2026-11-20T13:40:01Z",
+                "open_issues": 1295,
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3138,
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T00:43:13.317Z",
+    "last_updated": "2026-11-21T00:03:43.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",
