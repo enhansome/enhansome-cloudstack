@@ -432,8 +432,8 @@
             "id": 15166059,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-20T22:54:14Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-21T10:20:56Z",
+            "open_issues": 0,
             "owner": "niwo",
             "repo": "cloudstack_client",
             "stars": 14,
@@ -599,7 +599,7 @@
                 "open_issues": 34,
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 478,
+                "stars": 483,
                 "topics": [
                   "actions-runner",
                   "autoscaler",
@@ -865,10 +865,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T13:40:01Z",
-                "open_issues": 1295,
+                "open_issues": 1301,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3138,
+                "stars": 3139,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -903,10 +903,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T13:40:01Z",
-                "open_issues": 1295,
+                "open_issues": 1301,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3138,
+                "stars": 3139,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:03:43.375Z",
+    "last_updated": "2026-11-21T23:29:00.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",
