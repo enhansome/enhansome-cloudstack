@@ -595,11 +595,11 @@
                 "id": 488973970,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T23:34:22Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-26T11:01:00Z",
+                "open_issues": 35,
                 "owner": "cloudbase",
                 "repo": "garm",
-                "stars": 504,
+                "stars": 505,
                 "topics": [
                   "actions-runner",
                   "autoscaler",
@@ -742,7 +742,7 @@
                 "open_issues": 16,
                 "owner": "exentriquesolutions",
                 "repo": "nip.io",
-                "stars": 1778,
+                "stars": 1779,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:48:01.829Z"
@@ -864,11 +864,11 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T16:28:52Z",
-                "open_issues": 1402,
+                "last_commit": "2026-11-26T20:58:07Z",
+                "open_issues": 1414,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3139,
+                "stars": 3138,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -902,11 +902,11 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T16:28:52Z",
-                "open_issues": 1402,
+                "last_commit": "2026-11-26T20:58:07Z",
+                "open_issues": 1414,
                 "owner": "apache",
                 "repo": "cloudstack",
-                "stars": 3139,
+                "stars": 3138,
                 "topics": [
                   "cloud",
                   "cloudstack",
@@ -1047,7 +1047,7 @@
                 "id": 50923823,
                 "language": "Jinja",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T07:14:40Z",
+                "last_commit": "2026-11-26T15:58:47Z",
                 "open_issues": 17,
                 "owner": "shapeblue",
                 "repo": "Trillian",
@@ -1152,7 +1152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:52:01.283Z",
+    "last_updated": "2026-11-27T01:49:29.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the CloudStack ecosystem",
